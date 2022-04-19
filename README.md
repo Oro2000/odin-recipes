@@ -1,1 +1,1 @@
-# odin-recipes
+This will be the culmination of all the lessons i have learned so far regarding html. I will use the knowledge i have gained to build a basic recipe website.
